@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "NeuroDistill Strat-Intelligence",
+  "short_name": "NeuroDistill",
+  "description": "Cabinet Virtuel d'Analyse Stratégique & Croisement Décisionnel (Niveau McKinsey / PwC). Conçu par Tarik Badri & Larbi Badri.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

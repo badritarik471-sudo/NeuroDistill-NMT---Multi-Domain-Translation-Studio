@@ -1,0 +1,6 @@
+{
+  "name": "NeuroDistill NMT - Multi-Domain Translation Studio",
+  "description": "Multi-Domain Neural Machine Translation SaaS using Multi-Teacher Knowledge Distillation (ECAI 2020) with interactive 3D architecture visualizer and cross-platform desktop suite for Windows and macOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
